@@ -9,15 +9,15 @@
  */
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Htyoung Blog`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Tongyang Han`,
+      summary: `who lives and works in Wuhan, Hubei Province building useful things.`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
+    siteUrl: `https://blog.jsonb.cn/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `harold_hty`,
     },
   },
   plugins: [
