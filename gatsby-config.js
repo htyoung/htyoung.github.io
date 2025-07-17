@@ -9,7 +9,7 @@
  */
 module.exports = {
   siteMetadata: {
-    title: `Htyoung Blog`,
+    title: `Tongyang's Blog`,
     author: {
       name: `Tongyang Han`,
       summary: `who lives and works in Wuhan, Hubei Province building useful things.`,
